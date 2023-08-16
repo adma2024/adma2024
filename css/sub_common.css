@@ -615,6 +615,10 @@ img,video{height:auto;max-width:100%}[hidden]{display:none}*,:after,:before{--tw
 	}
 }
 
+.justified-text {
+        text-align: justify;
+    }
+
 #container {width: 100%;}
 #photo {float: left; width: 40%;}
 #content {float: right; width: 60%;}
