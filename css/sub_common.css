@@ -624,3 +624,15 @@ img,video{height:auto;max-width:100%}[hidden]{display:none}*,:after,:before{--tw
 #content {float: right; width: 60%;}
 
 
+.justified-text {
+	text-align: justify;
+  }
+
+.accepted-papers-menu {
+display: none;
+}
+
+.font-headingStyle:hover .accepted-papers-menu {
+display: block;
+}
+
